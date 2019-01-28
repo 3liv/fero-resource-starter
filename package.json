@@ -1,0 +1,17 @@
+{
+  "name": "fero-resource-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fero": "^1.7.1",
+    "fero-resource-subscriber": "file:../fero-resource-subscriber",
+    "utilise": "^2.3.8"
+  }
+}
