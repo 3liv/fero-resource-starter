@@ -7,11 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "MIT",
+  "author": "Ali Versi (https://github.com/3liv)",
+  "license": "https://3liv.mit-license.org",
   "dependencies": {
     "fero": "^1.7.1",
-    "fero-resource-subscriber": "file:../fero-resource-subscriber",
+    "fero-resource-subscriber": "github:3liv/fero-resource-subscriber",
     "utilise": "^2.3.8"
   }
 }
