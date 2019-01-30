@@ -1,17 +1,27 @@
 {
-  "name": "fero-resource-starter",
+  "name": "@3liv/fero-resource-starter",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Ali Versi (https://github.com/3liv)",
-  "license": "https://3liv.mit-license.org",
+  "license": "MIT",
   "dependencies": {
+    "@3liv/fero-resource-subscriber": "^1.0.2",
+    "extract-text-webpack-plugin": "^3.0.2",
     "fero": "^1.7.1",
-    "fero-resource-subscriber": "github:3liv/fero-resource-subscriber",
     "utilise": "^2.3.8"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3liv/fero-resource-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/3liv/fero-resource-starter/issues"
+  },
+  "homepage": "https://github.com/3liv/fero-resource-starter#readme",
+  "description": ""
 }
