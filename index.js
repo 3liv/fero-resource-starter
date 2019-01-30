@@ -1,6 +1,6 @@
 const fero = require('fero')
     , log = require('utilise/log')('[fero-resource-starter]')
-    , subscribe = require('fero-resource-subscriber')
+    , subscribe = require('@3liv/fero-resource-subscriber')
 
 module.exports = (dir = __dirname) => 
   async ({ name, path }) => 
