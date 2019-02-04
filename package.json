@@ -1,6 +1,6 @@
 {
   "name": "@3liv/fero-resource-starter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "@3liv/fero-resource-subscriber": "^1.0.2",
-    "async-decorators": "^0.1.5",
-    "extract-text-webpack-plugin": "^3.0.2",
     "fero": "^1.7.1",
+    "p-cache": "^1.0.1",
     "utilise": "^2.3.8"
   },
   "devDependencies": {},
